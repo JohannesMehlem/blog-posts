@@ -1,3 +1,5 @@
+#Accompanying blog post: https://johannesmehlem.com/blog/exponential-smoothing-time-series-forecasting-r/
+
 #Reading in CSV file with header from set working directory
 data <- read.csv("organic-traffic.csv", header = T)
 #Checking format of the data
