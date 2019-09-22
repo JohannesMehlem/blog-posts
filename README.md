@@ -1,2 +1,2 @@
 # blog-posts
-This repository contains accompanying code for my blog posts on https://johannesmehlem.com/blog/
+This repository contains accompanying code for some of my blog posts here: https://johannesmehlem.com/blog/
